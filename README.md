@@ -7,7 +7,7 @@
       <img src="https://img.shields.io/badge/LeetCode-kiryshka1922-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
     </a>
     <a href="https://t.me/kiryshka2205">
-      <img src="https://img.shields.io/badge/Telegram-@yourusername-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+      <img src="https://img.shields.io/badge/Telegram-@kiryshka2205-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
   </p>
 </div>
@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-Junior Frontend Developer with. Active member of **"Stileru"** student organization at HSE University. Successfully completed **Yandex Interface Development School**.
+Junior Frontend Developer with. Active member of **"Styleru"** student organization at HSE University. Successfully completed **Yandex Interface Development School**.
 
 ---
 
